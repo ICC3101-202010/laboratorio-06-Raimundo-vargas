@@ -1,0 +1,13 @@
+C:\Users\rvarg\Desktop\Lab POO\laboratorio-06-Raimundo-vargas\Lab 6\Lab 6\bin\Debug\netcoreapp3.1\Lab 6.exe
+C:\Users\rvarg\Desktop\Lab POO\laboratorio-06-Raimundo-vargas\Lab 6\Lab 6\bin\Debug\netcoreapp3.1\Lab 6.deps.json
+C:\Users\rvarg\Desktop\Lab POO\laboratorio-06-Raimundo-vargas\Lab 6\Lab 6\bin\Debug\netcoreapp3.1\Lab 6.runtimeconfig.json
+C:\Users\rvarg\Desktop\Lab POO\laboratorio-06-Raimundo-vargas\Lab 6\Lab 6\bin\Debug\netcoreapp3.1\Lab 6.runtimeconfig.dev.json
+C:\Users\rvarg\Desktop\Lab POO\laboratorio-06-Raimundo-vargas\Lab 6\Lab 6\bin\Debug\netcoreapp3.1\Lab 6.dll
+C:\Users\rvarg\Desktop\Lab POO\laboratorio-06-Raimundo-vargas\Lab 6\Lab 6\bin\Debug\netcoreapp3.1\Lab 6.pdb
+C:\Users\rvarg\Desktop\Lab POO\laboratorio-06-Raimundo-vargas\Lab 6\Lab 6\obj\Debug\netcoreapp3.1\Lab 6.csprojAssemblyReference.cache
+C:\Users\rvarg\Desktop\Lab POO\laboratorio-06-Raimundo-vargas\Lab 6\Lab 6\obj\Debug\netcoreapp3.1\Lab 6.csproj.CoreCompileInputs.cache
+C:\Users\rvarg\Desktop\Lab POO\laboratorio-06-Raimundo-vargas\Lab 6\Lab 6\obj\Debug\netcoreapp3.1\Lab 6.AssemblyInfoInputs.cache
+C:\Users\rvarg\Desktop\Lab POO\laboratorio-06-Raimundo-vargas\Lab 6\Lab 6\obj\Debug\netcoreapp3.1\Lab 6.AssemblyInfo.cs
+C:\Users\rvarg\Desktop\Lab POO\laboratorio-06-Raimundo-vargas\Lab 6\Lab 6\obj\Debug\netcoreapp3.1\Lab 6.dll
+C:\Users\rvarg\Desktop\Lab POO\laboratorio-06-Raimundo-vargas\Lab 6\Lab 6\obj\Debug\netcoreapp3.1\Lab 6.pdb
+C:\Users\rvarg\Desktop\Lab POO\laboratorio-06-Raimundo-vargas\Lab 6\Lab 6\obj\Debug\netcoreapp3.1\Lab 6.genruntimeconfig.cache
