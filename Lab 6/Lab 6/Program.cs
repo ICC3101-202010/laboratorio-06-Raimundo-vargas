@@ -16,7 +16,7 @@ namespace Lab_6
             string salir="";
             while (salir != "1")
             {
-                Console.WriteLine("DESEA UTILIZAR UN ARCHIVO PARA CARGAR LA INFORMACION DE LA EMPRESA?");
+                Console.WriteLine("DESEA UTILIZAR UN ARCHIVO PARA CARGAR LA INFORMACION DE LA EMPRESA?\n");
                 Console.WriteLine("1. NO");
                 Console.WriteLine("2. SI");
                 string respuesta = Console.ReadLine();
@@ -143,10 +143,9 @@ namespace Lab_6
                         {
                             try
                             {
-
+                                Empresa empresa = Cargar();
                                 Console.WriteLine("EMPRESA LEIDA");
                                 Thread.Sleep(2000);
-                                Empresa empresa = Cargar();
                                 Console.WriteLine("NOMBRE EMPRESA:");
                                 Console.WriteLine(empresa.nombre);
                                 Thread.Sleep(2000);
@@ -157,6 +156,7 @@ namespace Lab_6
                                 {
                                     empresa.Diviciones[i].Verinformacion();
                                 }
+                                Console.WriteLine("\nESA ES LA INFORMACION DE LA EMPRESA");
                                 Console.WriteLine("PRESIONE CUALQUIER TECLA PARA SALIR");
                                 Console.ReadLine();
                                 salir = "1";
@@ -273,7 +273,6 @@ namespace Lab_6
                                 empresa.Diviciones.Add(new Bloque(nombredivision, new Persona(nombreencargado, apellidoencargado, rutencargado, cargoencargado), personal2));
 
                                 Almacenar(empresa);
-                                salir = "1";
                                 Console.WriteLine("EMPRESA CREADA");
                                 Thread.Sleep(2000);
                                 Console.WriteLine("PRESIONE CUALQUIER TECLA PARA SALIR");
