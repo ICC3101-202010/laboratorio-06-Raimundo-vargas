@@ -5,16 +5,19 @@ using System.Text;
 namespace Lab_6
 {
     [Serializable]
-    class Empresa 
+    public class Persona
     {
         public string nombre;
+        public string apellido;
         public string rut;
-        public List<Division> Diviciones= new List<Division>();
+        public string cargo;
 
-        public Empresa(string nombre, string rut)
+        public Persona(string nombre, string apellido, string rut, string cargo)
         {
             this.nombre = nombre;
+            this.apellido = apellido;
             this.rut = rut;
+            this.cargo = cargo;
         }
     }
 }
